@@ -21,9 +21,15 @@
     <ClCompile Include="..\..\..\..\..\Libs\openGL\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tutorial_01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

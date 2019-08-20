@@ -9,6 +9,11 @@ int main() {
 	//sampleCode();
 	//exe1_drawTwoTriangle();
 	//exe2_drawTwoTriWithDifferentVAOAndVBO();
-	exe3_drawTriangleWithTwoFragmentShaders();
+	//exe3_drawTriangleWithTwoFragmentShaders();
+	
+	//setColorAttriWithUniform();
+	//setMoreAttriWithVertexData();
+	testShaderHeader();
+
 	return 0;
 }

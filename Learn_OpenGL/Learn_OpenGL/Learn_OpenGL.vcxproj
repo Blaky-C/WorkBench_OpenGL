@@ -159,8 +159,10 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Libs\openGL\glad.c" />
     <ClCompile Include="Learn_OpenGL.cpp" />
+    <ClCompile Include="shader.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="shader.h" />
     <ClInclude Include="tutorial_01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
